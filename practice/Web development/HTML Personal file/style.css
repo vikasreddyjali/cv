@@ -1,0 +1,25 @@
+img
+{
+    border-radius: 100%;
+}
+body
+{
+    background: color #eaf6fe;
+}
+hr 
+{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 3%;
+}
+h1
+{
+color: aqua;
+}
+h3
+{
+    color: aqua;
+}
